@@ -1,0 +1,22 @@
+﻿  CSC382Graph_Student.cpp
+C:\Users\edean\Desktop\CSC382Graph_Student\CSC382Graph_Student.cpp(149,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\edean\Desktop\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(208,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edean\Desktop\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(207): message : while compiling class template member function 'int CSC382Graph_AdjacencyList<int>::GraphSize(void)'
+C:\Users\edean\Desktop\CSC382Graph_Student\CSC382Graph_Student.cpp(115): message : see reference to function template instantiation 'int CSC382Graph_AdjacencyList<int>::GraphSize(void)' being compiled
+C:\Users\edean\Desktop\CSC382Graph_Student\CSC382Graph_Student.cpp(86): message : see reference to class template instantiation 'CSC382Graph_AdjacencyList<int>' being compiled
+C:\Users\edean\Desktop\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(202,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edean\Desktop\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(201): message : while compiling class template member function 'int CSC382Graph_AdjacencyList<int>::NumberOfEdges(std::list<T,std::allocator<T>> *)'
+          with
+          [
+              T=int
+          ]
+C:\Users\edean\Desktop\CSC382Graph_Student\CSC382Graph_Student.cpp(115): message : see reference to function template instantiation 'int CSC382Graph_AdjacencyList<int>::NumberOfEdges(std::list<T,std::allocator<T>> *)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\edean\Desktop\CSC382Graph_Student\CSC382Graph_NodeBased.h(224,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edean\Desktop\CSC382Graph_Student\CSC382Graph_NodeBased.h(223): message : while compiling class template member function 'int CSC382Graph_NodeBased<int>::Size(void)'
+C:\Users\edean\Desktop\CSC382Graph_Student\CSC382Graph_Student.cpp(53): message : see reference to function template instantiation 'int CSC382Graph_NodeBased<int>::Size(void)' being compiled
+C:\Users\edean\Desktop\CSC382Graph_Student\CSC382Graph_Student.cpp(18): message : see reference to class template instantiation 'CSC382Graph_NodeBased<int>' being compiled
+  CSC382Graph_Student.vcxproj -> C:\Users\edean\Desktop\CSC382Graph_Student\x64\Debug\CSC382Graph_Student.exe
